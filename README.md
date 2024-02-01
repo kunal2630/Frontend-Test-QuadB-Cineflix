@@ -4,6 +4,8 @@
 
 Cineflix is a web application that allows users to explore and discover information about movies. The application provides a user-friendly interface to browse a wide range of movies, view details, and manage their favorite movie lists.
 
+## Developed in less than 24 hours
+
 ## Features
 
 - **Movie Catalog:** Explore a vast catalog of movies with details such as title, release date, genre, and more.
